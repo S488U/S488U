@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @S488U
 - 👀 I’m interested in Web desighning and Ethical hacking
 - 🌱 I’m currently learning Web desighning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web designing
 - 📫 shahabassabbu12@gmail.com
 
 <!---
